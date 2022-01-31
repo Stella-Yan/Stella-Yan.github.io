@@ -21,6 +21,9 @@
   <entry>
     <title>Latex测试</title>
     <url>/2022/01/31/QAQ/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="huge-QAQ"><a href="#huge-QAQ" class="headerlink" title="$\huge{QAQ}$"></a>$\huge{QAQ}$</h1>]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>$\sum\limits_{k=1}^{\infty}\frac{1}{k^2}=\frac{\pi^2}{6}$</p>
+<p>$e^{i\pi}+1=0$</p>
+<p>$-\frac{\hbar^2}{2m}\frac{\partial^2\Psi}{\partial x^2}=\text{i} \hbar\frac{\partial\Psi}{\partial t}$</p>
+]]></content>
   </entry>
 </search>
